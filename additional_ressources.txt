@@ -8,3 +8,6 @@ where to ask questions about ai:
 
 Berkeley project help:
 http://ai.berkeley.edu/reinforcement.html
+
+Book chapter about the autonomous car:
+https://docs.google.com/document/d/1tuqZVDI7hLM5jHx8se2AB26G0qIXZ3WgKPw293D7IcI/edit
